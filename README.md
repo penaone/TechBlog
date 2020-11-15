@@ -48,6 +48,6 @@ Needed to run post and get tests.
 
 
 ## Questions
-Contact me:
+Contact me: Stephen
 Github: [https://github.com/penaone](https://github.com/penaone)
 Email: [penaone@gmail.com](penaone@gmail.com)
